@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-04-03T17:07:25+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/post/</loc>
     <lastmod>2020-04-03T17:07:25+08:00</lastmod>
   </url>
@@ -34,6 +29,11 @@
   
   <url>
     <loc>http://example.org/tags/%E6%83%85%E8%AF%9D/</loc>
+    <lastmod>2020-04-03T17:07:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
     <lastmod>2020-04-03T17:07:25+08:00</lastmod>
   </url>
   
