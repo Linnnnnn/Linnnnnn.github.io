@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>莹之小窝</title>
-    <link>http://example.org/</link>
+    <link>http://linnnnnn.github.io/</link>
     <description>Recent content on 莹之小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 06 Apr 2020 09:20:23 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://linnnnnn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>20200406</title>
-      <link>http://example.org/post/20200406/</link>
+      <link>http://linnnnnn.github.io/post/20200406/</link>
       <pubDate>Mon, 06 Apr 2020 09:20:23 +0800</pubDate>
       
-      <guid>http://example.org/post/20200406/</guid>
+      <guid>http://linnnnnn.github.io/post/20200406/</guid>
       <description>啦啦啦 昨天去睇那个银饰制作老实说费用有滴超出我预期（T.T) 我以为300左右咯，我再睇下有无其他可以制作俾你 如果无就咬咬牙吧。 链条你要自己买哦。 爱你么么哒！ </description>
     </item>
     
     <item>
       <title>Fistblog</title>
-      <link>http://example.org/post/fistblog/</link>
+      <link>http://linnnnnn.github.io/post/fistblog/</link>
       <pubDate>Fri, 03 Apr 2020 17:07:25 +0800</pubDate>
       
-      <guid>http://example.org/post/fistblog/</guid>
+      <guid>http://linnnnnn.github.io/post/fistblog/</guid>
       <description>#####哈哈 #####你不是说让我用技术给你点惊喜？ #####现在惊喜来了 #####以后上班我尽量会在这里发布一条给你的话 #####在家里没环境弄不了(T_T) #####其实是想偷懒一下.</description>
     </item>
     
